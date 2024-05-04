@@ -16,4 +16,4 @@ Graphs and visualizations can be found in `Graphs` folder
 
 `crash-preprocessing` filters the crash dataset for only speed-related crashes and displays a graph of them
 
-`speed-camera-graph` overlays speed camera locations on top of the cra
+`speed-camera-graph` overlays speed camera locations on top of the crashes
