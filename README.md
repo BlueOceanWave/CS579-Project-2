@@ -1,5 +1,13 @@
 # CS579-Project-2
 
+## Project Overview
+
+This projects analyzes how the distribution of traffic lights and speed cameras in the City of Chicago affect the distribution of  speed-related car crashes. We use 3 datasets: Chicago Car Crashes, Chicago Speed Camera Locations, and Chicago Traffic Light Locations.
+
+We collected the crash and speed camera datasets from the Chicago Data Portal, and the traffic light data was queried from OpenStreetMap. 
+
+## Folder and File Layout
+
 Datasets can be found in the `Data` folder
 
 Graphs and visualizations can be found in `Graphs` folder
