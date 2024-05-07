@@ -9,6 +9,7 @@ We collected the crash and speed camera datasets from the Chicago Data Portal, a
 ## Folder and File Layout
 
 Datasets can be found in the [Data](https://github.com/BlueOceanWave/CS579-Project-2/blob/main/Data) folder
+Datasets can be found in the [Data](https://github.com/BlueOceanWave/CS579-Project-2/blob/main/Data) folder
 
 Graphs and visualizations can be found in the [Graphs](https://github.com/BlueOceanWave/CS579-Project-2/blob/main/Graphs) folder
 
